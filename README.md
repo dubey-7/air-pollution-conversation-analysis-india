@@ -45,5 +45,3 @@ Key observations:
 
 **Sakshi Dubey**  
 🎓 Data Science & AI Student | 📊 Data Analytics Enthusiast
-
-## 📁 Repository Structure
