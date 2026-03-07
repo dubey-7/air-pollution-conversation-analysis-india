@@ -41,9 +41,6 @@ Key observations:
 
 ---
 
-
----
-
 ## 👩‍💻 Author
 
 **Sakshi Dubey**  
